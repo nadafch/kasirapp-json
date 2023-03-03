@@ -1,0 +1,20 @@
+{
+    "categories" : [
+        {
+        "id": 1,
+        "nama": "makanan"
+        },
+        {
+        "id": 2,
+        "nama": "minuman"
+        },
+        {
+        "id": 3,
+        "nama": "cemilan"
+        }
+    ],
+    "produtcs" : [
+    ],
+    "keranjang":[],
+    "pesanan":[]
+}
